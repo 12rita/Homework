@@ -1,0 +1,27 @@
+2
+KB
+IBAS
+2
+matan 4
+linal 3
+4
+katya KB
+matan 1
+5 
+linal 1
+5 
+dima KB
+matan 1
+4 
+linal 1
+4 
+petya IBAS
+matan 1
+2 
+linal 1
+1 
+alena IBAS
+matan 1
+4 
+linal 1
+3 
